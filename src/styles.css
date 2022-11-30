@@ -1,0 +1,44 @@
+* {
+  background: #000000;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  max-width: 600px;
+  margin: auto;
+}
+
+button {
+  margin-right: 1.5rem;
+  padding: 1rem 1.5rem;
+  font-size: 1.3rem;
+  border-radius: 1rem;
+  border: 2px solid rgb(212, 203, 203);
+  background-color: #d16d6d;
+  color: white;
+  box-shadow: 3px 3px;
+}
+button:active {
+  box-shadow: 3px 3px black;
+}
+.main-item p {
+  margin-right: 3rem;
+  border: 1px solid #b34f4f;
+  padding: 1rem;
+  max-width: 300px;
+  margin: auto;
+  margin-top: 2rem;
+  border-radius: 0.5rem;
+}
+.main-item {
+  color: white;
+  text-align: -webkit-center;
+}
+.usp {
+  border-bottom: 2px solid #9ea1ff;
+  padding-bottom: 1rem;
+}
+.header {
+  margin-top: 4rem;
+  color: floralwhite;
+}
